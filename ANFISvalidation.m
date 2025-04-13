@@ -1,3 +1,23 @@
+%==========================================================================
+%   Copyright (c) 2025, Tarbiat Modares University (TMU)
+%   All rights reserved.
+%
+%   This code is provided "as is" without any warranties, express or implied,
+%   including but not limited to the warranties of merchantability and fitness
+%   for a particular purpose.
+%
+%   Description:
+%   This MATLAB code is developed for predicting the solubility of anti-cancer
+%   drugs in supercritical CO₂ using various modeling and computational techniques.
+%
+%   Author: Tara Sabooni
+%   Contact:
+%   tarasabooni@email.com (Tara Sabooni)
+%   fakhroleslam@modares.ac.ir (Mohammad Fakhroleslam)
+%
+%   Last update: 2025-04-13
+%==========================================================================
+
 clc;
 clear all;
 close all;
