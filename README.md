@@ -1,7 +1,6 @@
 # ML for Anticancer Drug Dissolution in Supercritical CO₂
 
-This repository contains simulation code and machine learning models for the research paper:  
-**_"Towards Improved Cancer Treatment by Predicting the Solubility of Anti-Cancer Drugs in Supercritical CO₂"_**
+This repository contains simulation code and machine learning models for the research paper titled "Solubility Prediction of Anticancer Drugs in Supercritical Carbon Dioxide: A Comparative Study of Data-Driven Models".
 
 ---
 
