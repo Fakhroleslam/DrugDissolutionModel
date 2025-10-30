@@ -2,8 +2,6 @@
 
 This repository contains simulation code and machine learning models for the research paper titled "Solubility Prediction of Anticancer Drugs in Supercritical Carbon Dioxide: A Comparative Study of Data-Driven Models".
 
----
-
 ## Overview
 
 This project explores the application of machine learning to predict the solubility of anticancer drugs in supercritical carbon dioxide (SC-CO₂). A total of **22,510 models** were constructed and evaluated using a diverse set of architectures, including:
@@ -15,7 +13,6 @@ This project explores the application of machine learning to predict the solubil
 
 The goal is to enhance **drug formulation efficiency** by delivering accurate solubility predictions based on experimental data.
 
----
 
 ## Machine Learning Models
 
@@ -36,7 +33,6 @@ The following ML architectures are implemented and optimized in this project:
 - **Hybrid & Stacked Models**  
   Ensemble models combining random forests, boosting, and neural nets for enhanced performance.
 
----
 
 ##  Technical Details
 
